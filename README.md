@@ -1,4 +1,5 @@
-## Welcome to iFoodsoft where we develop the world's most advanced technology
+## iFoodsoft Computer and Software
+We develop the world's most advanced technology
 
 ### Products
 here are some products/softwares from iFoodsoft that you can download for free
